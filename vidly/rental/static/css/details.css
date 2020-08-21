@@ -1,0 +1,11 @@
+
+.card{
+    background-color: rgba(60, 10, 177, 0.822);
+    border-radius: 5px;
+    color: yellow;
+}
+.list-group-item{
+    background-color: gold;
+    color:rgb(58, 5, 145);
+    font-weight: 500;
+}

@@ -1,0 +1,13 @@
+.card{
+    display: inline-block;
+    border-radius: 5px;
+    vertical-align: top;
+    background-color: rgb(15, 212, 219);
+    
+}
+
+.card img{
+
+    width: 285px;
+    height: 380px;
+}
